@@ -3,7 +3,7 @@
 
 <img align=“right” alt==“coding” width=“400” src=“https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966”>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishant8405&label=Profile%20views&color=0e75b6&style=flat" alt="nishant8405" /> </p>
+<p align="left"> <img src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nishant15895860" target="blank"><img src="https://img.shields.io/twitter/follow/nishant15895860?logo=twitter&style=for-the-badge" alt="nishant15895860" /></a> </p>
 
